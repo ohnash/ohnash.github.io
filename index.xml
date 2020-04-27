@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ignacio Zuñiga Portafolio</title>
-    <link>https://username.github.io/</link>
+    <link>https://ohnash.github.io/</link>
     <description>Recent content on Ignacio Zuñiga Portafolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ohnash.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CorelDraw</title>
-      <link>https://username.github.io/post/2015-02-20-test-markdown/</link>
+      <link>https://ohnash.github.io/post/2015-02-20-test-markdown/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-02-20-test-markdown/</guid>
+      <guid>https://ohnash.github.io/post/2015-02-20-test-markdown/</guid>
       <description>&lt;h3 id=&#34;software-creativo&#34;&gt;Software creativo&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>Ejercicio Fusion 360</title>
-      <link>https://username.github.io/post/2015-02-26-flake-it-till-you-make-it/</link>
+      <link>https://ohnash.github.io/post/2015-02-26-flake-it-till-you-make-it/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-02-26-flake-it-till-you-make-it/</guid>
+      <guid>https://ohnash.github.io/post/2015-02-26-flake-it-till-you-make-it/</guid>
       <description>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?</description>
     </item>
     
     <item>
       <title>Iluminacion encargo 1</title>
-      <link>https://username.github.io/post/2015-01-04-first-post/</link>
+      <link>https://ohnash.github.io/post/2015-01-04-first-post/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-01-04-first-post/</guid>
+      <guid>https://ohnash.github.io/post/2015-01-04-first-post/</guid>
       <description>&lt;h3 id=&#34;iluminación-sombras-y-luces&#34;&gt;Iluminación sombras y luces&lt;/h3&gt;
 
 
@@ -44,13 +44,13 @@
 	  
 
  
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://username.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://ohnash.github.io/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://username.github.io/img/luz4p-thumb.png&#39;);&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://username.github.io/img/luz4p-thumb.png&#34; alt=&#34;/img/luz4p-thumb.png&#34;/&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://ohnash.github.io/img/luz4p-thumb.png&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://ohnash.github.io/img/luz4p-thumb.png&#34; alt=&#34;/img/luz4p-thumb.png&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;https://username.github.io/img/luz4p.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://ohnash.github.io/img/luz4p.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 
@@ -59,10 +59,10 @@
 
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://username.github.io/img/luz1p-thumb.png&#39;);&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://username.github.io/img/luz1p-thumb.png&#34; alt=&#34;/img/luz1p-thumb.png&#34;/&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://ohnash.github.io/img/luz1p-thumb.png&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://ohnash.github.io/img/luz1p-thumb.png&#34; alt=&#34;/img/luz1p-thumb.png&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;https://username.github.io/img/luz1p.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://ohnash.github.io/img/luz1p.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 
@@ -71,10 +71,10 @@
 
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://username.github.io/img/luz3p-thumb.png&#39;);&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://username.github.io/img/luz3p-thumb.png&#34; alt=&#34;/img/luz3p-thumb.png&#34;/&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://ohnash.github.io/img/luz3p-thumb.png&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://ohnash.github.io/img/luz3p-thumb.png&#34; alt=&#34;/img/luz3p-thumb.png&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;https://username.github.io/img/luz3p.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://ohnash.github.io/img/luz3p.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 
@@ -85,82 +85,82 @@
     
     <item>
       <title>Iluminacion encargo 2</title>
-      <link>https://username.github.io/post/2015-01-15-pirates/</link>
+      <link>https://ohnash.github.io/post/2015-01-15-pirates/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-01-15-pirates/</guid>
+      <guid>https://ohnash.github.io/post/2015-01-15-pirates/</guid>
       <description>&lt;h3 id=&#34;iluminación-sombras-y-luces&#34;&gt;Iluminación sombras y luces&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>Instalación HUGO</title>
-      <link>https://username.github.io/post/2015-01-27-dear-diary/</link>
+      <link>https://ohnash.github.io/post/2015-01-27-dear-diary/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-01-27-dear-diary/</guid>
+      <guid>https://ohnash.github.io/post/2015-01-27-dear-diary/</guid>
       <description>&lt;h3 id=&#34;cómo-crear-páginas-web&#34;&gt;Cómo crear páginas web&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>Movilidad</title>
-      <link>https://username.github.io/post/2015-02-13-hamlet-monologue/</link>
+      <link>https://ohnash.github.io/post/2015-02-13-hamlet-monologue/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-02-13-hamlet-monologue/</guid>
+      <guid>https://ohnash.github.io/post/2015-02-13-hamlet-monologue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post 9 - Investigación Tema</title>
-      <link>https://username.github.io/post/2017-03-05-math-sample/</link>
+      <link>https://ohnash.github.io/post/2017-03-05-math-sample/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2017-03-05-math-sample/</guid>
+      <guid>https://ohnash.github.io/post/2017-03-05-math-sample/</guid>
       <description>&lt;h3 id=&#34;otra-forma-de-realidad-simulada&#34;&gt;Otra forma de realidad simulada&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>Volumen encargo 3</title>
-      <link>https://username.github.io/post/2015-01-19-soccer/</link>
+      <link>https://ohnash.github.io/post/2015-01-19-soccer/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-01-19-soccer/</guid>
+      <guid>https://ohnash.github.io/post/2015-01-19-soccer/</guid>
       <description>&lt;h3 id=&#34;volumen-en-luces-y-sombras&#34;&gt;Volumen en luces y sombras&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>Propuestas de Diseño</title>
-      <link>https://username.github.io/post/2017-03-07-bigimg-sample/</link>
+      <link>https://ohnash.github.io/post/2017-03-07-bigimg-sample/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2017-03-07-bigimg-sample/</guid>
+      <guid>https://ohnash.github.io/post/2017-03-07-bigimg-sample/</guid>
       <description>&lt;h3 id=&#34;covid-19&#34;&gt;Covid-19&lt;/h3&gt;</description>
     </item>
     
     <item>
       <title>Code Sample</title>
-      <link>https://username.github.io/post/2016-03-08-code-sample/</link>
+      <link>https://ohnash.github.io/post/2016-03-08-code-sample/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2016-03-08-code-sample/</guid>
+      <guid>https://ohnash.github.io/post/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://username.github.io/post/2017-03-20-photoswipe-gallery-sample/</link>
+      <link>https://ohnash.github.io/post/2017-03-20-photoswipe-gallery-sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2017-03-20-photoswipe-gallery-sample/</guid>
+      <guid>https://ohnash.github.io/post/2017-03-20-photoswipe-gallery-sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://username.github.io/page/about/</link>
+      <link>https://ohnash.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/page/about/</guid>
+      <guid>https://ohnash.github.io/page/about/</guid>
       <description>My name is Inigo Montoya. I have the following qualities:
  I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
 my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
