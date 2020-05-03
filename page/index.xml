@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Ignacio Zuñiga Portafolio</title>
-    <link>https://ohnash.github.io/page/</link>
+    <link>/page/</link>
     <description>Recent content in Pages on Ignacio Zuñiga Portafolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Ignacio Octavio Zuñiga Vasquez)</managingEditor>
     <webMaster>youremail@domain.com (Ignacio Octavio Zuñiga Vasquez)</webMaster>
     
-	<atom:link href="https://ohnash.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sobre mi</title>
-      <link>https://ohnash.github.io/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Ignacio Octavio Zuñiga Vasquez)</author>
-      <guid>https://ohnash.github.io/page/about/</guid>
+      <guid>/page/about/</guid>
       <description>Soy Ignacio, Estudiante de Diseño en la Universidad Adolfo Ibáñez, comparte con el mundo sus estudios del Magister de Innovación y Diseño, MID UAI, además de creaciones y proyectos personales.</description>
     </item>
     
