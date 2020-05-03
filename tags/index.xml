@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Ignacio Octavio Zuñiga Vasquez)</managingEditor>
     <webMaster>youremail@domain.com (Ignacio Octavio Zuñiga Vasquez)</webMaster>
+    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ohnash.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>code</title>
+      <link>https://ohnash.github.io/tags/code/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Ignacio Octavio Zuñiga Vasquez)</author>
+      <guid>https://ohnash.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>example</title>
+      <link>https://ohnash.github.io/tags/example/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Ignacio Octavio Zuñiga Vasquez)</author>
+      <guid>https://ohnash.github.io/tags/example/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
